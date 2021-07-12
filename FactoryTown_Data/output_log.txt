@@ -1,0 +1,215 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4058 MB
+    Driver:   22.21.13.8476
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Проэкты\Factory Town\FactoryTown_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Проэкты\Factory Town\FactoryTown_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Проэкты\Factory Town\FactoryTown_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Проэкты\Factory Town\FactoryTown_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Проэкты\Factory Town\FactoryTown_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Проэкты\Factory Town\FactoryTown_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Проэкты\Factory Town\FactoryTown_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Проэкты\Factory Town\FactoryTown_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Проэкты\Factory Town\FactoryTown_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\Проэкты\Factory Town\FactoryTown_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\Проэкты\Factory Town\FactoryTown_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Проэкты\Factory Town\FactoryTown_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.165 seconds
+Platform assembly: D:\Проэкты\Factory Town\FactoryTown_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Platform assembly: D:\Проэкты\Factory Town\FactoryTown_Data\Managed\System.Xml.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.023514 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 5f8 -> priority: 1 
+  Thread -> id: 2cfc -> priority: 1 
+  Thread -> id: 238c -> priority: 1 
+  Thread -> id: 1cf0 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.616376 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 737.
+Total: 0.657020 ms (FindLiveObjects: 0.052953 ms CreateObjectMapping: 0.038397 ms MarkObjects: 0.470555 ms  DeleteObjects: 0.094362 ms)
+
+<root>
+  <score>12</score>
+  <instance x="110" y="0" z="-20" iZavoda="0">Place</instance>
+  <instance x="20" y="0" z="-50" iZavoda="1">Place</instance>
+  <instance x="20" y="0" z="-50" iZavoda="0">Place</instance>
+  <instance x="80" y="0" z="-80" iZavoda="0">Place</instance>
+  <instance x="50" y="0" z="-50" iZavoda="0">Place</instance>
+  <instance x="80" y="0" z="-20" iZavoda="0">Place</instance>
+  <instance x="50" y="0" z="-20" iZavoda="0">Place</instance>
+  <instance x="110" y="0" z="-80" iZavoda="0">Place</instance>
+  <instance x="50" y="0" z="-80" iZavoda="0">Place</instance>
+  <instance x="50" y="0" z="-20" iZavoda="0">Place</instance>
+  <instance x="65.02812" y="-4.95937347" z="-50">Ground</instance>
+  <instance x="50" y="0" z="-50" iZavoda="2">Place</instance>
+  <instance x="80" y="0" z="-50" iZavoda="0">Place</instance>
+  <instance x="20" y="0" z="-20" iZavoda="0">Place</instance>
+  <instance x="20" y="0" z="-20" iZavoda="0">Place</instance>
+  <instance x="20" y="0" z="-80" iZavoda="3">Place</instance>
+  <instance x="50" y="0" z="-80" iZavoda="0">Place</instance>
+  <instance x="110" y="0" z="-50" iZavoda="0">Place</instance>
+  <instance x="20" y="0" z="-80" iZavoda="0">Place</instance>
+  <instance x="20" y="0.01" z="-20" iZavoda="0" currentStock="20">Factory 1</instance>
+  <instance x="20" y="0.01" z="-50" iZavoda="1" currentStock="18">Factory 1</instance>
+  <instance x="50" y="0.01" z="-50" iZavoda="2" currentStock="14">Factory 1</instance>
+  <instance x="20" y="0.01" z="-80" iZavoda="3" currentStock="38">Factory 2</instance>
+</root>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+C:/Users/NIKITA/AppData/LocalLow/DefaultCompany/Factory Town/testsave.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.262845 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 515.
+Total: 0.693661 ms (FindLiveObjects: 0.054458 ms CreateObjectMapping: 0.041157 ms MarkObjects: 0.523759 ms  DeleteObjects: 0.073783 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.473567 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 737.
+Total: 0.698680 ms (FindLiveObjects: 0.049439 ms CreateObjectMapping: 0.039652 ms MarkObjects: 0.499416 ms  DeleteObjects: 0.109670 ms)
+
+<root>
+  <score>12</score>
+  <instance x="110" y="0" z="-20" iZavoda="0">Place</instance>
+  <instance x="20" y="0" z="-50" iZavoda="1">Place</instance>
+  <instance x="20" y="0" z="-50" iZavoda="0">Place</instance>
+  <instance x="80" y="0" z="-80" iZavoda="0">Place</instance>
+  <instance x="50" y="0" z="-50" iZavoda="0">Place</instance>
+  <instance x="80" y="0" z="-20" iZavoda="0">Place</instance>
+  <instance x="50" y="0" z="-20" iZavoda="0">Place</instance>
+  <instance x="110" y="0" z="-80" iZavoda="0">Place</instance>
+  <instance x="50" y="0" z="-80" iZavoda="0">Place</instance>
+  <instance x="50" y="0" z="-20" iZavoda="0">Place</instance>
+  <instance x="65.02812" y="-4.95937347" z="-50">Ground</instance>
+  <instance x="50" y="0" z="-50" iZavoda="2">Place</instance>
+  <instance x="80" y="0" z="-50" iZavoda="0">Place</instance>
+  <instance x="20" y="0" z="-20" iZavoda="0">Place</instance>
+  <instance x="20" y="0" z="-20" iZavoda="0">Place</instance>
+  <instance x="20" y="0" z="-80" iZavoda="3">Place</instance>
+  <instance x="50" y="0" z="-80" iZavoda="0">Place</instance>
+  <instance x="110" y="0" z="-50" iZavoda="0">Place</instance>
+  <instance x="20" y="0" z="-80" iZavoda="0">Place</instance>
+  <instance x="20" y="0.01" z="-20" iZavoda="0" currentStock="20">Factory 1</instance>
+  <instance x="20" y="0.01" z="-50" iZavoda="1" currentStock="18">Factory 1</instance>
+  <instance x="50" y="0.01" z="-50" iZavoda="2" currentStock="14">Factory 1</instance>
+  <instance x="20" y="0.01" z="-80" iZavoda="3" currentStock="38">Factory 2</instance>
+</root>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Place
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Place
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Place
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Place
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Place
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Place
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Place
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Place
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Place
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Place
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ground
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Place
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Place
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Place
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Place
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Place
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Place
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Place
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Place
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.120298 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 515.
+Total: 0.650244 ms (FindLiveObjects: 0.051949 ms CreateObjectMapping: 0.037644 ms MarkObjects: 0.486366 ms  DeleteObjects: 0.073281 ms)
+
+Выход из игры...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
